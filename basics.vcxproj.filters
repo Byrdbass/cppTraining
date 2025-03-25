@@ -18,12 +18,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Tax.cpp">
+    <ClCompile Include="02-Tax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="03-cIn-example.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CinExample.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
